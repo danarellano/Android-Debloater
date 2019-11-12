@@ -94,7 +94,7 @@ pm uninstall -k --user 0 com.google.android.apps.wallpaper #Google Wallpapers
 pm uninstall -k --user 0 com.google.android.apps.wellbeing #Digital Wellbeing
 pm uninstall -k --user 0 com.google.android.feedback #App crash feedback
 pm uninstall -k --user 0 com.google.android.googlequicksearchbox #Google Search
-pm uninstall -k --user 0 com.google.ar.core #Google ARCore
+#pm uninstall -k --user 0 com.google.ar.core #Google ARCore
 pm uninstall -k --user 0 com.google.marvin.talkback
 pm uninstall -k --user 0 com.google.android.onetimeinitializer
 pm uninstall -k --user 0 com.google.android.play.games #Google Play Games.
@@ -121,5 +121,43 @@ pm uninstall -k --user 0 com.facebook.appmanager
 pm uninstall -k --user 0 com.facebook.services
 
 
+pm uninstall -k --user 0 com.samsung.svoice.sync #Voice Service
+pm uninstall -k --user 0 com.samsung.android.calendar #Calendar
+pm uninstall -k --user 0 com.cnn.mobile.android.phone.edgepanel #CNN for Edge Panel
+pm uninstall -k --user 0 com.sec.vsim.ericssonnsds.webapp #NSDSWebapp
+pm uninstall -k --user 0 com.sec.location.nsflp2 #Samsung Location SDK
+pm uninstall -k --user 0 com.samsung.android.themestore #Galaxy Themes
+pm uninstall -k --user 0 com.sec.android.mimage.gear360editor #360 Photo Editor
+pm uninstall -k --user 0 com.osp.app.signin #Samsung Account
+pm uninstall -k --user 0 com.samsung.android.smartmirroring #Smart View
+pm uninstall -k --user 0 com.sec.android.desktopcommunity #DeX community
+pm uninstall -k --user 0 com.samsung.android.easysetup #SmartThings
+pm uninstall -k --user 0 com.samsung.android.rubin.app #Customization Service
+pm uninstall -k --user 0 com.diotek.sec.lookup.dictionary #Dictionary
+pm uninstall -k --user 0 com.sec.android.app.samsungapps #Galaxy Store
+pm uninstall -k --user 0 com.samsung.android.app.camera.sticker.facear.preload #Face decorations
+pm uninstall -k --user 0 com.samsung.android.app.selfmotionpanoramaviewer #Motion wide-angle selfie viewer
+pm uninstall -k --user 0 com.samsung.android.widgetapp.yahooedge.finance #Finance
+pm uninstall -k --user 0 com.sec.android.app.soundalive #SoundAlive
+pm uninstall -k --user 0 com.samsung.SMT #Samsung text-to-speech engine
+pm uninstall -k --user 0 com.samsung.android.net.wifi.wifiguider #Wi-Fi Tips
+pm uninstall -k --user 0 com.samsung.android.widgetapp.yahooedge.sport #Sports
+pm uninstall -k --user 0 com.sec.android.app.SecSetupWizard #Samsung setup wizard
+pm uninstall -k --user 0 com.sec.android.gallery3d #Gallery
+pm uninstall -k --user 0 com.samsung.android.mobileservice #Samsung Experience Service
+pm uninstall -k --user 0 com.samsung.knox.securefolder #Secure Folder
+pm uninstall -k --user 0 com.samsung.android.app.simplesharing #Link Sharing
+pm uninstall -k --user 0 com.samsung.android.service.peoplestripe #People edge
 
+pm uninstall -k --user 0 com.sec.android.inputmethod #Samsung Keyboard
+pm uninstall -k --user 0 com.samsung.android.app.mirrorlink #Samsung MirrorLink 1.1
+pm uninstall -k --user 0 com.android.chrome #Chrome
+pm uninstall -k --user 0 com.samsung.android.themecenter #Samsung Themes
+pm uninstall -k --user 0 com.sec.android.app.myfiles #My Files
+pm uninstall -k --user 0 com.android.dreams.phototable #Photo Screensavers
+pm uninstall -k --user 0 com.sec.android.service.health #Health Service
+pm uninstall -k --user 0 com.android.wallpaper.livepicker #Live Wallpaper Picker
+pm uninstall -k --user 0 com.samsung.android.scloud #Samsung Cloud
+pm uninstall -k --user 0 com.android.bookmarkprovider #Bookmark Provider
+pm uninstall -k --user 0 com.samsung.android.fast #Secure Wi-Fi
 
